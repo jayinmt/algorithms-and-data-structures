@@ -47,7 +47,7 @@ To use the code in this repository, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/jaydxyz/algorithms-and-data-structures.git`
 2. Install the necessary dependencies (if any).
-3. Explore the source code in the `data-structures.ts` file.
+3. Explore the source code in the `algorithms-and-data-structures.ts` file.
 4. Modify and extend the code as per your requirements.
 5. Run the code using a TypeScript compiler or integrate it into your project.
 
